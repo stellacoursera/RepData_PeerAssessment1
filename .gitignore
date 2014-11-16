@@ -1,0 +1,12 @@
+*.RData
+*.Rhistory
+.Rproj.user/387DCB49/sdb/s-609D6A3C/lock_file
+.Rproj.user/387DCB49/sdb/s-609D6A3C/1CE68538
+.Rproj.user/387DCB49/sdb/s-609D6A3C/C561DABD
+.Rproj.user/387DCB49/sdb/prop/5A7BC8B1
+.Rproj.user/387DCB49/sdb/prop/INDEX
+.Rproj.user/387DCB49/sdb/prop/3C0B5EFF
+.Rproj.user/387DCB49/pcs/files-pane.pper
+.Rproj.user/387DCB49/pcs/source-pane.pper
+.Rproj.user/387DCB49/pcs/windowlayoutstate.pper
+*.pper
